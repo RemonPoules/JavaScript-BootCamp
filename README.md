@@ -1,2 +1,2 @@
 # JavaScript-BootCamp
-JavaScript Bootcamp
+## JavaScript Bootcamp
