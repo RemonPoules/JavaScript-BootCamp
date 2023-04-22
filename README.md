@@ -1,6 +1,6 @@
 # JavaScript-BootCamp
 ## JavaScript Bootcamp
 
-... javascript
+```javascript
 console.log("JavaScript")
-...
+```
