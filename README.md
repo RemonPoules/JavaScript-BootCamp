@@ -1,4 +1,4 @@
 ## JavaScript Bootcamp Course
-### Introduction
+### **Introduction**
 ### #001 Introduction And What Is JavaScript 
 
